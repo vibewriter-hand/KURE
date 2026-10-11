@@ -1,0 +1,2 @@
+Step 1 (setup.sh) failed: httpx.ProxyError: 403 Forbidden
+Step 2 (canary_embed.py) failed: httpx.ProxyError: 403 Forbidden

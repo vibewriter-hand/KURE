@@ -1,0 +1,19 @@
+{
+  "https://huggingface.co/api/models/nlpai-lab/KURE-v1": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://huggingface.co/nlpai-lab/KURE-v1/resolve/8b418a58414668e75532ed045c22d9ca018ae2b2/config.json": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://huggingface.co/nlpai-lab/KURE-v1/resolve/8b418a58414668e75532ed045c22d9ca018ae2b2/model.safetensors": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://cdn-lfs.huggingface.co": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://cas-bridge.xethub.hf.co": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://hf-mirror.com": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://github.com/vibewriter-hand/KURE/releases": "200",
+  "https://objects.githubusercontent.com": "404",
+  "https://release-assets.githubusercontent.com": "404",
+  "https://raw.githubusercontent.com/vibewriter-hand/KURE/main/README.md": "200",
+  "https://pypi.org/simple/numpy/": "200",
+  "https://files.pythonhosted.org": "404",
+  "https://download.pytorch.org/whl/cpu/": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "https://modelscope.cn": "ERR:curl: (56) CONNECT tunnel failed, response 403",
+  "python --version": "Python 3.13.16",
+  "nproc": "4",
+  "pip --version": "pip 24.0 from /usr/lib/python3/dist-packages/pip (python 3.13)"
+}

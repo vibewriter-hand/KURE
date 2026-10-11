@@ -1,0 +1,1 @@
+step 1 (bash setup.sh) failed: httpx.ProxyError: 403 Forbidden (model weights download blocked by proxy)

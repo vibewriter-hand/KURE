@@ -1,0 +1,51 @@
+{
+ "model": "nlpai-lab/KURE-v1",
+ "revision": "8b418a58414668e75532ed045c22d9ca018ae2b2",
+ "source": "fork release assets (huggingface.co is blocked by the proxy)",
+ "parts": {
+  "kure-v1-8b418a58.tar.part-aa": {
+   "bytes": 1048576000,
+   "sha256": "fd40e3854d302daa1da1de0031cf254ed2517a5a7931fb5da81069be37d7967d",
+   "match": true
+  },
+  "kure-v1-8b418a58.tar.part-ab": {
+   "bytes": 1048576000,
+   "sha256": "78064b9a5dec03457c36702dcd62af59ecd65df22bb92ec753725376173b7caf",
+   "match": true
+  },
+  "kure-v1-8b418a58.tar.part-ac": {
+   "bytes": 191047680,
+   "sha256": "e3881f735b8bb2279467614f2e70725db39ce0cd2301bec5beae1eac2cd41db4",
+   "match": true
+  }
+ },
+ "files": {
+  "model.safetensors": {
+   "bytes": 2271064456,
+   "sha256": "c18156e80caf8ff45eb84a24a853130c3bca03087ccb41b051f86e7556bae02c",
+   "match": true
+  },
+  "config.json": {
+   "bytes": 807,
+   "sha256": "852d42e020c7f989c2acaf30fc683b7f768e8c6d1ab17166e835442162bd825d",
+   "match": true
+  },
+  "modules.json": {
+   "bytes": 349,
+   "sha256": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+   "match": true
+  },
+  "1_Pooling/config.json": {
+   "bytes": 297,
+   "sha256": "13e69897522ee8255104483ed9f219465d1be3936654a54a318758738052789e",
+   "match": true
+  },
+  "tokenizer.json": {
+   "bytes": 17083053,
+   "sha256": "fb3c3b93c46fd5a8634e262e1b7de7da11a18b527aa2282b312952b692781dfd",
+   "match": true
+  }
+ },
+ "ok": true,
+ "download_and_verify_seconds": 50.5
+}
